@@ -1,0 +1,19 @@
+{
+  "name": "spycat",
+  "version": "1.0.0",
+  "description": "A WebRTC application to remotely spy on @antonk52's cats",
+  "main": "client.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimohStudios/SpyCat.git"
+  },
+  "author": "",
+  "license": "GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/TimohStudios/SpyCat/issues"
+  },
+  "homepage": "https://github.com/TimohStudios/SpyCat#readme"
+}
