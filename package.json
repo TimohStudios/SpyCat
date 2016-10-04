@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/TimohStudios/SpyCat/issues"
   },
-  "homepage": "https://github.com/TimohStudios/SpyCat#readme"
+  "homepage": "https://github.com/TimohStudios/SpyCat#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-uglify": "^1.5.1"
+  }
 }
